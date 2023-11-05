@@ -1,0 +1,39 @@
+{
+  "businesses": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "category": "Fast Food",
+      "description": "Worst pizza ever",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pizza_Hut_classic_logo.svg/165px-Pizza_Hut_classic_logo.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "category": "Fast Food",
+      "description": "Home of the Whopper",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/225px-Burger_King_2020.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "Am:pm",
+      "category": "Groceries",
+      "description": "A 24 hour grocery store",
+      "image": "https://d226b0iufwcjmj.cloudfront.net/retailers/2/logo.png?0.703748800923381"
+    },
+    {
+      "id": 4,
+      "name": "Burger King",
+      "category": "Fast Food",
+      "description": "Home of the Whopper",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/225px-Burger_King_2020.svg.png"
+    },
+    {
+      "id": 5,
+      "name": "Pizza Hut",
+      "category": "Fast Food",
+      "description": "Worst pizza ever",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pizza_Hut_classic_logo.svg/165px-Pizza_Hut_classic_logo.svg.png"
+    }
+  ]
+}
