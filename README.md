@@ -2,6 +2,9 @@
 
 EasyScraper is a Python tool for scraping business information from [https://easy.co.il](https://easy.co.il). It uses Selenium for web scraping and Pandas for data manipulation. The tool allows you to specify categories and cities to scrape business details and saves the results in a CSV file.
 
+In the upcoming video, you'll observe the script's functionality to capture a Captcha at any given moment during execution. This allows the user to solve the Captcha, and the script seamlessly resumes from the same point without any issues.
+[CLICK HERE TO SEE THE VIDEO](https://www.veed.io/view/3c4eb7ae-22d5-4743-bfd8-7b34b299072f?panel=share)
+
 ## Prerequisites
 
 Before running EasyScraper, make sure you have the following installed:
